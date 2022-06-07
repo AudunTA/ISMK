@@ -20,12 +20,12 @@ and their families.
 
 To install the projects, clone the repository and then install the dependencies.
 
-Clone the repo:
+1. Clone the repo:
+ ```
+  git clone git@github.com:NoroffFEU/portfolio-1-example.git ```
+2. Install the dependencies:
 ```
-git clone git@github.com:AudunTA/ISMK.git
-Install the dependencies:
 npm install
-Running
 ```
 
 **Contributing**
