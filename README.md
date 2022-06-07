@@ -22,17 +22,18 @@ To install the projects, clone the repository and then install the dependencies.
 
 1. Clone the repo:
  ```
-  git clone git@github.com:NoroffFEU/portfolio-1-example.git ```
+  git clone git@github.com:AudunTA/ISMK.git
+ ```
 2. Install the dependencies:
 ```
 npm install
 ```
 
-**Contributing**
-This is a school projects and contribution changes should not be maded
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate CONTRIBUTING.md and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+# Contributing
+This is a school projects and contribution changes should not be made.
 
-**Contact**
+
+# Contact
 
 [My GitHub profile](https://github.com/AudunTA)
 [My linkedIn page](https://www.linkedin.com/in/audun-thompson-anderssen-79b3b3222/)
