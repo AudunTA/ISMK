@@ -1,5 +1,6 @@
 # International Sience Museum Kristiansand 
-image
+
+![The ISMK Logo](https://github.com/AudunTA/ISMK/blob/master/images/logo.png "Logo")
 
 A simple overview of the use/purpose of the project.
 
@@ -19,8 +20,7 @@ List item 3
 **CSS**
 
 
-Getting Started
-**Installing**
+## Installing
 
 To install the projects, clone the repository and then install the dependencies.
 
