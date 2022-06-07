@@ -4,7 +4,7 @@
 
 A simple overview of the use/purpose of the project.
 
-**Description**
+# Description
 This project is a part of my first semester project at Noroff Kristiansand, its not finished because underways i decided to redo alot of the assignment.
 the international sience museum kristiansand is one of my first projects. The assignment were to create an informative and appealing design for its core audience; children (7-15)
 and their families.
@@ -35,9 +35,8 @@ This is a school projects and contribution changes should not be made.
 
 # Contact
 
-[My GitHub profile](https://github.com/AudunTA)
+[My GitHub profile](https://github.com/AudunTA) <br />
 [My linkedIn page](https://www.linkedin.com/in/audun-thompson-anderssen-79b3b3222/)
 
 
-Acknowledgments
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+
