@@ -1,6 +1,6 @@
 # International Sience Museum Kristiansand 
 
-![The ISMK Logo](https://github.com/AudunTA/ISMK/blob/master/images/logo.png "Logo")
+![The ISMK desktop](https://github.com/AudunTA/ISMK/blob/master/images/ismk.png "Logo")
 
 A simple overview of the use/purpose of the project.
 
