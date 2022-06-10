@@ -20,13 +20,13 @@ and their families.
 
 To install the projects, clone the repository and then install the dependencies.
 
-1. Clone the repo:
+1. Clone or download the project:
  ```
-  git clone git@github.com:AudunTA/ISMK.git
+  SSH clone URL: git@github.com:AudunTA/ISMK.git
  ```
-2. Install the dependencies:
+2. Open the project in your code editor:
 ```
-npm install
+run on your live server
 ```
 
 # Contributing
